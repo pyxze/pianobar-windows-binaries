@@ -1,4 +1,5 @@
-control_proxy = http://<proxy_user>:<proxy_pass>@<proxy_address>:<proxy_port>
+# Uncomment the control_proxy line if you would like to set up a proxy connection for pianobar
+#control_proxy = http://<proxy_user>:<proxy_pass>@<proxy_address>:<proxy_port>
 
 user = <pandora_user>
 password = <pandora_password>
@@ -7,7 +8,7 @@ width = 220
 height = 60
 
 #-------------------------------------------------------------------------------
-# Uncomment those if you're using GlobalPandora.com
+# Uncomment these if you're using GlobalPandora.com
 
 #rpc_host = internal-tuner.pandora.com
 #partner_user = pandora one
