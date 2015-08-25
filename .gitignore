@@ -3,3 +3,7 @@
 *.ilk
 *.pdb
 *.cfg
+/*.bat
+/*.exe
+/*.iobj
+/*.ipdb
