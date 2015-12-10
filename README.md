@@ -1,6 +1,8 @@
 pianobar for Windows - portable binaries
 ========
 
+![pianobar](https://github.com/thedmd/pianobar-windows-binaries/blob/master/screenshots/pianobar.png)
+
 pianobar is a console client for the personalized web radio pandora
 (http://www.pandora.com). Source code of the original project can be found at
 at http://github.com/PromyLOPh/pianobar/ or http://6xq.net/projects/pianobar/
