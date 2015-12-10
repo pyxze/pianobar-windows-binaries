@@ -8,9 +8,9 @@ pianobar is a console client for the personalized web radio pandora
 at http://github.com/PromyLOPh/pianobar/ or http://6xq.net/projects/pianobar/
 
 This project contains binaries for Windows build using Microsoft
-Visual Studio 2008.
+Visual Studio 2015.
 
-axTLD, libao, libmad and pthreads-win32 were used to prepare this distributtion.
+json-c, vtparse are used to prepare this distributtion.
 
 Source code of this binary can be found at:
 https://github.com/thedmd/pianobar-windows-build
